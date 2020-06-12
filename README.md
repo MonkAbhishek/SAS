@@ -47,7 +47,8 @@ Subpopulation ( Sample Populaton )
  
 We need two hypothesis as output from Linear regression is continuous and that from logistic regression is binary
 
-=========================================
+=========================
+
 Subpopulation - Veterans
 Exposure - Having Diabetes 
 Disease - Linear regression ( Avg sleep per night)
